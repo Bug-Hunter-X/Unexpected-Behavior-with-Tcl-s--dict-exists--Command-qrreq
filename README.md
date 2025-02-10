@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Tcl related to the `dict exists` command.  The `bug.tcl` file shows how attempting to access a non-existent key in a dictionary might lead to unexpected results if not handled gracefully. The solution (`bugSolution.tcl`) provides a more robust approach.
